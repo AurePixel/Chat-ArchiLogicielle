@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Chat\\Chat.csproj",
-      "projectName": "Chat",
-      "projectPath": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Chat\\Chat.csproj",
+      "projectUniqueName": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Client\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\jujuc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Chat\\obj\\",
+      "outputPath": "D:\\Projets\\Dev Logiciel\\Chat-ArchiLogicielle\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jujuc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.exe
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.deps.json
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.runtimeconfig.json
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.runtimeconfig.dev.json
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.dll
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\bin\Debug\netcoreapp3.1\Chat.pdb
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.csprojAssemblyReference.cache
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.AssemblyInfoInputs.cache
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.AssemblyInfo.cs
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.csproj.CoreCompileInputs.cache
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.dll
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.pdb
+D:\Projets\Dev Logiciel\Chat-ArchiLogicielle\Chat\obj\Debug\netcoreapp3.1\Chat.genruntimeconfig.cache
