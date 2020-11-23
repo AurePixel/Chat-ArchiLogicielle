@@ -20,13 +20,12 @@ namespace Chat
 
                 while (true)
                 {
-                    // Hang
                     using (TcpClient client = server.AcceptTcpClient())
                     {
                         using (StreamReader reader = new StreamReader(client.GetStream()))
                         {
-                            string text = reader.ReadLine();
-                            Console.WriteLine(text);
+                             string text = reader.ReadLine();
+                             Console.WriteLine(text);
                         }
                     }
                 }
@@ -37,5 +36,6 @@ namespace Chat
             }
 
         }
+
     }
 }

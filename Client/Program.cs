@@ -12,19 +12,20 @@ namespace Client
 
             Console.WriteLine("Ton nom !?");
             string name = Console.ReadLine();
+
             while (true)
             {
                 TcpClient client = new TcpClient();
                 Console.WriteLine("Ecrie ton texte !");
                 try
                 {
+                    string saisie = Console.ReadLine();
                     client.Connect("127.0.0.1", 9876);
-
                     if (client.Connected)
                     {
                         NetworkStream stream = client.GetStream();
                         StreamWriter writer = new StreamWriter(stream);
-                        string saisie = Console.ReadLine();
+                        
                         writer.WriteLine(name + ": " + saisie);
                         writer.Flush();
                         writer.Dispose();
